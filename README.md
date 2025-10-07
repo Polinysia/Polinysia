@@ -79,8 +79,8 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Polinysia/Polinysia/refs/heads/main/sertif.png)
-[<img src="/Letter10.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/Polinysia/Polinysia/refs/heads/main/sertifikat.png)
+[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом of English»">](https://raw.githubusercontent.com/Polinysia/Polinysia/refs/heads/main/sertif.png)
+[<img src="/Letter10.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Polinysia/Polinysia/refs/heads/main/sertifikat.png)
 
 <br>
 <br>
